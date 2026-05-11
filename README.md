@@ -165,17 +165,5 @@ sha256sum FILE_NAME
 
 | File | Size | Download |
 |------|------|----------|
-| `GooseRelayVPN-client-v1.6.0-windows-amd64.zip` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/AmirMehrabi79/LatestReleaseMirror/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-windows-amd64.zip) |
-
----
-
-<div id="therealaleph--masterhttprelayvpn-rust"></div>
-
-### therealaleph--MasterHttpRelayVPN-RUST
-
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.21</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.21)
-
-| File | Size | Download |
-|------|------|----------|
-| `mhrv-rs-windows-amd64.zip` | 7.6 MB | [⬇️ Download](https://raw.githubusercontent.com/AmirMehrabi79/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+| `SHA256SUMS.txt` | 1 KB | [⬇️ Download](https://raw.githubusercontent.com/AmirMehrabi79/LatestReleaseMirror/main/releases/Kianmhz/GooseRelayVPN/SHA256SUMS.txt) |
 <!-- RELEASES_END -->
